@@ -7,3 +7,9 @@ git --version   查看版本号
 git config --global “name”   设置用户名
 
 git config --global “email”   设置邮箱
+
+
+
+
+
+时间：2026年3月27日16:45:34
