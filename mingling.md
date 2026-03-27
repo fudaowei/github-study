@@ -190,7 +190,29 @@ git checkout main   切换为main分支
 
 git checkout main   切换为main分支
 
+git merge xxx   将xxx分支的内容合并进当前分支
 
+git merge xxx   将xxx分支的内容合并进当前分支
+
+git merge xxx   将xxx分支的内容合并进当前分支
+
+git merge xxx   将xxx分支的内容合并进当前分支
+
+git merge xxx   将xxx分支的内容合并进当前分支
+
+git branch -d xxx   安全删除xxx分支
+
+git branch -d xxx   安全删除xxx分支
+
+git branch -d xxx   安全删除xxx分支
+
+git branch -d xxx   安全删除xxx分支
+
+git branch -d xxx   安全删除xxx分支
+
+git branch -d xxx   安全删除xxx分支
+
+git branch -D xxx   强制删除xxx分支
 
 
 
